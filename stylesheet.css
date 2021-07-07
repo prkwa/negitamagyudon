@@ -1,0 +1,22 @@
+.header{
+    background-color:#bcd537
+    height: 90px;
+
+}
+body{
+    background-color:#e0f1f1
+}
+.neginput{
+    text-align: center
+}
+
+.eyecatch{
+    border-color:#bcd537;
+}
+
+.yourmeal{
+
+    font-size:2em;
+    background-color: #32a324;
+    color: #FFFFFF;
+}
